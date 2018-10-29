@@ -14,11 +14,11 @@ Learn more about Talk, including a deep dive into features for commenters and mo
 
 ## Pre-Launch Guide
 
-You’ve installed Talk on your server, and you’re preparing to launch it on your site. The real community work starts now, before you go live. You have a unique opportunity pre-launch to set your community up for success. Read our [Talk Community Guide](https://blog.coralproject.net/youve-installed-talk-now-what/).
+You’ve installed Talk on your server, and you’re preparing to launch it on your site. The real community work starts now, before you go live. You have a unique opportunity pre-launch to set your community up for success. Read our [Talk Community Guide](https://coralproject.net/blog/youve-installed-talk-now-what/).
 
 ## Advanced Usage
 
-For advanced configuration and usage of Talk, check out our [Configuration](https://docs.coralproject.net/talk/advanced-configuration/) and [Integration](https://docs.coralproject.net/talk/integrating/authentication/) how-tos. This covers topics in whih you will need dev support to fully customize and integrate Talk, such as SSO/authentication, creating and managing assets and articles, styling Talk with custom CSS, and setting up Notifications and SMTP support.
+For advanced configuration and usage of Talk, check out our [Configuration](https://docs.coralproject.net/talk/advanced-configuration/) and [Integration](https://docs.coralproject.net/talk/integrating/authentication/) how-tos. This covers topics in which you will need dev support to fully customize and integrate Talk, such as SSO/authentication, creating and managing assets and articles, styling Talk with custom CSS, and setting up Notifications and SMTP support.
 
 ## Versions & Upgrading
 
